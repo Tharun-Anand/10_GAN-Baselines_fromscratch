@@ -1,7 +1,3 @@
-# EE608-Project
-
-This course project entails a comparitive study of how the results vary when discriminator sees differently pre-processed images from the dataset(s). These pre-processings will be low-level digital image processing algorithms which this course is centered around.   
-
 ## Papers Replicated:   
 1. GAN     
 2. DCGAN    
@@ -32,6 +28,5 @@ PyTorch Lightning + WandB
 ++ Literature Survey/Review       
 
 ---   
-  
-> Aryan Garg    
-> B19153   
+  Tharun Anand    
+
